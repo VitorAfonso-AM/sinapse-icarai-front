@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "sinapse-neurocare-53ffc"
+  },
+  "targets": {
+    "sinapse-neurocare-53ffc": {
+      "hosting": {
+        "sinapse-icarai": [
+          "sinapse-icarai"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
